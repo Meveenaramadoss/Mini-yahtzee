@@ -81,3 +81,4 @@ export default Scoreboard = ({ route,navigation }) => {
 
 
 
+/*kdbkb*/
